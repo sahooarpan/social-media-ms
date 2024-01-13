@@ -17,7 +17,7 @@ This Project covers Database Per Service Pattern, Messaging Pattern for communic
 
 **Queue:** [RabbitMQ](https://www.rabbitmq.com/download.html)
 
-**Documentation:** [Thunder client](#https://www.thunderclient.com/)
+**Documentation:** [Thunder client](https://www.thunderclient.com/)
 
 
 ## Installation
